@@ -2,16 +2,16 @@
 	"ret": true,
 	"data":{
 		"swiperInfo": [{
-    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1706/1c/b760623a69a5af02.jpg_640x200_2c6972e5.jpg",
+    		"imgUrl": "https://imgs.qunarzz.com/piao/fusion/1707/db/22ae04f4afe5ee02.jpg_640x200_fd1aaab9.jpg",
     		"link":""
     	},{
-    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1706/24/4e94ef994058c002.jpg_640x200_8ee40266.jpg",
+    		"imgUrl": "https://imgs.qunarzz.com/piao/fusion/1707/31/81a0fa3b34ef0002.jpg_640x200_59b587d8.jpg",
     		"link":""
     	},{
-    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1707/8a/581caa2e017e202.jpg_640x200_674b3ec7.jpg",
+    		"imgUrl": "https://imgs.qunarzz.com/piao/fusion/1707/90/2ab6fd356529aa02.jpg_640x200_5a7251a0.jpg",
     		"link":""
     	},{
-    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1705/4b/50f24bd241383e02.jpg_640x200_f8c673da.jpg",
+    		"imgUrl": "https://imgs.qunarzz.com/piao/fusion/1707/e5/f5f5f8ab59097f02.jpg_640x200_9397fc4b.jpg",
     		"link":""
     	}],
 
@@ -255,53 +255,69 @@
            "price": "7.01"
        }],
     	"iconInfo": [{
-    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-    		"title": "故宫",
-    		"link":"weekend/index"
-    	},{
-    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-    		"title": "故宫",
-    		"link":"onedaytour"
-    	},{
-    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
-    		"title": "一日游",
-    		"link":"./oneday-list"
-    	},{
-    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-    		"title": "故宫",
-    		"link":""
-    	},{
-    		"imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-    		"title": "故宫",
-    		"link":""
-    	},{
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
+            "title": "景点门票",
+            "link":"weekend/index"
+        },{
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/45/676b67d7078abc02.png",
+            "title": "故宫",
+            "link":"onedaytour"
+        },{
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
+            "title": "一日游",
+            "link":"./oneday-list"
+        },{
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/1c/a8a8d9023a814c02.png",
+            "title": "文化古迹",
+            "link":""
+        },{
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1707/34/9285073fde1eb702.png",
+            "title": "景点讲解",
+            "link":""
+        },{
 
-            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-            "title": "故宫",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
+            "title": "动植物园",
             "link":""
         },{
-            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-            "title": "故宫",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/1a/261d4530330c202.png",
+            "title": "水上乐园",
             "link":""
         },{
-            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-            "title": "故宫",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/59/569d3c096e542502.png",
+            "title": "公园",
             "link":""
         },{
-            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-            "title": "故宫",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/4c/cb6f790552dc3002.png",
+            "title": "农家度假",
             "link":""
         },{
-            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-            "title": "故宫",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/59/569d3c096e542502.png",
+            "title": "必玩景点",
             "link":""
         },{
-            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-            "title": "故宫",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/aa/a4cc16ba5e66a702.png",
+            "title": "亲子游",
             "link":""
         },{
-            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-            "title": "故宫",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/d0/e09575e66f4aa402.png",
+            "title": "游乐场",
+            "link":""
+        },{
+            "imgUrl": "https://img1.qunarzz.com/piao/fusion/1611/d1/1e49d9e4d7fca102.png",
+            "title": "暑期大促",
+            "link":""
+        },{
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/c3/133460666f6f9202.png",
+            "title": "室内娱乐",
+            "link":""
+        },{
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/1a/261d4530330c202.png",
+            "title": "水上玩乐",
+            "link":""
+        },{
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/be/a70e61e1f57ee302.png",
+            "title": "更多",
             "link":""
         }],
         "recommendInfo": [{
